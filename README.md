@@ -10,7 +10,7 @@ Ce petit script Python est conçu pour aider les dev à faire la compat des modu
 
 Tu dois installer les librairies nécessaires avec la commande : 
 
-```bash pip install -r requirements.txt ```
+``` pip install -r requirements.txt ```
 
 ## Configuration
 
@@ -20,7 +20,7 @@ Il faut modifier les informations contenues dans config.ini (nom base de donnée
 
 Pour les noobs qui ne savent toujours pas lancer un script python :) 
 
-```bash python3 script.py ```
+``` python3 script.py ```
 
 ## Conseils
 
